@@ -4,9 +4,9 @@ This is a project implementing IoT using Raspberry Pi. Goal of the project is to
 
 <img src="Images/git.png" alt="Image of Concept"/>
 
-## Technologies - 
-***Kotlin*** - Android application
-***JSON*** - Data exchange format
-***AJAX*** - For communication
-***PHP*** - Server side processing
-***Python*** - IoT communication and control language
+## Technologies - <br>
+***Kotlin*** - Android application<br>
+***JSON*** - Data exchange format<br>
+***AJAX*** - For communication<br>
+***PHP*** - Server side processing<br>
+***Python*** - IoT communication and control language<br>
